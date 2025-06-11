@@ -136,6 +136,7 @@ ENV/
 env.bak/
 venv.bak/
 .qrw_pagerank/
+.qrw
 
 # Spyder project settings
 .spyderproject
