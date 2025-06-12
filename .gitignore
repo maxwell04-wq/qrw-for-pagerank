@@ -197,3 +197,6 @@ cython_debug/
 
 # Other files
 notes.txt
+
+# no pdfs
+*.pdf
